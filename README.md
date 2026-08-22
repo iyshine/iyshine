@@ -45,7 +45,7 @@ Sou um desenvolvedor apaixonado por tecnologia e design, com habilidades em **de
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zShizuki&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyshine&layout=compact&theme=radical" />
 </p>
 
 ---
