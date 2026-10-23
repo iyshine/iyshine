@@ -111,9 +111,7 @@ Alguns dos temas que fazem parte do meu dia a dia:
 
 ## Shinedev
 
-Também mantenho meu espaço profissional na web em **[shinedev.com.br](https://shinedev.com.br)**.
-
-O site funciona como meu ponto central fora do GitHub para apresentar meu trabalho, minha identidade profissional e projetos ligados a desenvolvimento e criação digital.
+**ShineDev — Portfólio e site comercial para apresentar meus projetos, serviços e soluções, além de facilitar contato e vendas.**
 
 <p align="center">
   <a href="https://shinedev.com.br">
