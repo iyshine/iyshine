@@ -1,72 +1,157 @@
-# 👋 Olá, eu sou Iago! 🚀
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+# Iago ✦ Backend & Full Stack Developer
 
-💻 **Desenvolvedor Full Stack** com foco maior em **Backend**  
-🎨 Experiência com **UI Design e Social Media** usando **Figma & Photoshop**  
-📌 **Aberto a oportunidades** (remoto ou presencial)  
-🚀 **Buscando aprimorar minhas habilidades em Java**  
+**Java • Spring Boot • APIs • Docker • PostgreSQL • Integrações**
 
----
+Desenvolvo aplicações com foco em backend, automações, integrações entre serviços e ambientes de produção.
 
-## 🚀 Sobre Mim
+<br>
 
-Sou um desenvolvedor apaixonado por tecnologia e design, com habilidades em **desenvolvimento backend** e noções de **frontend**. Busco criar aplicações robustas, bem estruturadas e, sempre que possível, visualmente atrativas. Além do código, também me interesso por **design de interfaces** e **social media**, aplicando minha experiência com **Figma e Photoshop** para criar conteúdos dinâmicos.  
-
----
-
-## 🛠️ Tecnologias que Uso
-
-### **Backend & Banco de Dados**
-- **Node.js**, **Express.js**
-- **MySQL**
-- **Jest** para testes automatizados
-
-### **Frontend & Design**
-- **React** com animações (GIFs dinâmicos)  
-- **Figma** & **Photoshop** para design de interfaces e social media
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXQ5OW9heTFpcXZ3b2V1dW5hM2ljN3U2YzN1c3NyZmp0MXc5MW0xMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
-</p>
-
----
-
-## 📌 Projetos em Destaque  
-
-🔹 **[API REST em Node.js](https://github.com/zShizuki/Api-Rest-CRUD-com-JavaScript)** - API CRUD com MySQL e testes automatizados.  
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyshine&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🎯 Objetivos & Interesses  
-
-✔️ Criar aplicações mais interativas e dinâmicas no **frontend**  
-✔️ Aprofundar conhecimento em **Java e otimização de APIs**  
-✔️ Aprender mais sobre **DevOps e CI/CD**  
-✔️ Contribuir futuramente com **projetos open-source**  
-
----
-
-## 📫 Como me encontrar?
-<a href="mailto:gmziago8@gmail.com">
-  <img src="https://img.shields.io/badge/-gmziago8%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square" height="25"/>
+<a href="mailto:ziago8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ziago8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/iyshine">
+  <img src="https://img.shields.io/badge/GitHub-iyshine-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://discordapp.com/users/39381722582115945">
-  <img src="https://img.shields.io/badge/shine-blue?logo=discord&logoColor=white&style=flat-square" height="25"/>
+</div>
+
+---
+
+## Sobre mim
+
+Sou desenvolvedor **Full Stack com maior foco em Backend**, trabalhando principalmente com **Java e Spring Boot**.
+
+Tenho interesse especial em construir sistemas que precisem conversar com APIs externas, processar eventos, automatizar fluxos e funcionar de forma confiável em produção.
+
+Atualmente, meu foco está em:
+
+- desenvolvimento de **APIs REST** e serviços backend;
+- integrações via **webhooks** e APIs de terceiros;
+- autenticação e segurança de aplicações;
+- bancos de dados relacionais;
+- aplicações containerizadas com **Docker**;
+- deploy e operação em **VPS Linux**;
+- reverse proxy, HTTPS e infraestrutura com **Nginx**;
+- desenvolvimento mobile com **React Native / Expo**;
+- evolução contínua em arquitetura e boas práticas de software.
+
+---
+
+## Stack principal
+
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" alt="Backend technologies" />
+
+### Banco de dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Database technologies" />
+
+### Infraestrutura & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" alt="Infrastructure technologies" />
+
+### Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Frontend technologies" />
+
+### Design
+
+<img src="https://skillicons.dev/icons?i=figma,ps" alt="Design tools" />
+
+</div>
+
+---
+
+## O que tenho construído
+
+Nos meus projetos mais recentes tenho trabalhado com cenários como:
+
+```text
+Webhook / API externa
+        ↓
+   Spring Boot
+        ↓
+regras de negócio
+        ↓
+fila / processamento
+        ↓
+ API de terceiros
+        ↓
+Docker + Linux + Nginx
+```
+
+Alguns dos temas que fazem parte do meu dia a dia:
+
+- APIs com **Spring Boot**;
+- autenticação com **JWT**;
+- integração entre sistemas;
+- webhooks;
+- processamento assíncrono e filas em memória;
+- PostgreSQL e MySQL;
+- Docker Compose;
+- deploy em VPS;
+- SSL / HTTPS;
+- automações para WhatsApp;
+- React Native e Expo;
+- Git e GitHub no fluxo de desenvolvimento e produção.
+
+---
+
+## Projeto público em destaque
+
+### API REST CRUD com JavaScript
+
+API REST desenvolvida com **Node.js, Express e MySQL**, incluindo autenticação, testes automatizados e organização em camadas.
+
+<a href="https://github.com/iyshine/Api-Rest-CRUD-com-JavaScript">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iyshine&repo=Api-Rest-CRUD-com-JavaScript&theme=github_dark&hide_border=true" alt="API REST CRUD" />
 </a>
 
+> Grande parte dos meus projetos atuais está em repositórios privados e envolve Java, Spring Boot, Docker, integrações e infraestrutura de produção.
 
-⚡ Vamos construir algo incrível juntos!
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iyshine&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=iyshine&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+> As estatísticas públicas do GitHub não representam todo o volume do meu trabalho, já que parte relevante dos projetos está em repositórios privados.
+
+---
+
+## Atualmente estudando e aprimorando
+
+- arquitetura backend com Java e Spring;
+- design de APIs;
+- segurança e autenticação;
+- observabilidade e confiabilidade em produção;
+- Docker e infraestrutura Linux;
+- CI/CD e automação de deploy;
+- boas práticas de arquitetura e organização de código.
+
+---
+
+## Contato
+
+Se quiser conversar sobre desenvolvimento, APIs, backend, automação ou algum projeto:
+
+**Email:** [ziago8@gmail.com](mailto:ziago8@gmail.com)
+
+---
+
+<div align="center">
+
+`backend first • APIs • integrations • production`
+
+</div>
