@@ -8,6 +8,9 @@ Desenvolvo aplicações com foco em backend, automações, integrações entre s
 
 <br>
 
+<a href="https://shinedev.com.br">
+  <img src="https://img.shields.io/badge/Website-shinedev.com.br-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
 <a href="mailto:gmziago8@gmail.com">
   <img src="https://img.shields.io/badge/Email-gmziago8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -25,6 +28,8 @@ Sou desenvolvedor **Full Stack com maior foco em Backend**, trabalhando principa
 
 Tenho interesse especial em construir sistemas que precisem conversar com APIs externas, processar eventos, automatizar fluxos e funcionar de forma confiável em produção.
 
+Também tenho experiência com **design, criação visual e edição de vídeo**, usando ferramentas como **Photoshop, Figma, Adobe Premiere Pro e After Effects**.
+
 Atualmente, meu foco está em:
 
 - desenvolvimento de **APIs REST** e serviços backend;
@@ -35,6 +40,8 @@ Atualmente, meu foco está em:
 - deploy e operação em **VPS Linux**;
 - reverse proxy, HTTPS e infraestrutura com **Nginx**;
 - desenvolvimento mobile com **React Native / Expo**;
+- design de interfaces e criação visual;
+- edição de vídeo e motion graphics;
 - evolução contínua em arquitetura e boas práticas de software.
 
 ---
@@ -59,9 +66,9 @@ Atualmente, meu foco está em:
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Frontend technologies" />
 
-### Design
+### Design & Edição
 
-<img src="https://skillicons.dev/icons?i=figma,ps" alt="Design tools" />
+<img src="https://skillicons.dev/icons?i=figma,ps,pr,ae" alt="Design and video editing tools" />
 
 </div>
 
@@ -102,6 +109,20 @@ Alguns dos temas que fazem parte do meu dia a dia:
 
 ---
 
+## Shinedev
+
+Também mantenho meu espaço profissional na web em **[shinedev.com.br](https://shinedev.com.br)**.
+
+O site funciona como meu ponto central fora do GitHub para apresentar meu trabalho, minha identidade profissional e projetos ligados a desenvolvimento e criação digital.
+
+<p align="center">
+  <a href="https://shinedev.com.br">
+    <img src="https://img.shields.io/badge/Acessar%20meu%20site-shinedev.com.br-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Shinedev" />
+  </a>
+</p>
+
+---
+
 ## Projeto público em destaque
 
 ### API REST CRUD com JavaScript
@@ -138,20 +159,22 @@ API REST desenvolvida com **Node.js, Express e MySQL**, incluindo autenticação
 - observabilidade e confiabilidade em produção;
 - Docker e infraestrutura Linux;
 - CI/CD e automação de deploy;
-- boas práticas de arquitetura e organização de código.
+- boas práticas de arquitetura e organização de código;
+- edição de vídeo, composição e motion design.
 
 ---
 
 ## Contato
 
-Se quiser conversar sobre desenvolvimento, APIs, backend, automação ou algum projeto:
+Se quiser conversar sobre desenvolvimento, APIs, backend, automação, design ou algum projeto:
 
+**Site:** [shinedev.com.br](https://shinedev.com.br)  
 **Email:** [gmziago8@gmail.com](mailto:gmziago8@gmail.com)
 
 ---
 
 <div align="center">
 
-`backend first • APIs • integrations • production`
+`backend first • APIs • integrations • production • creative work`
 
 </div>
