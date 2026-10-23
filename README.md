@@ -8,8 +8,8 @@ Desenvolvo aplicações com foco em backend, automações, integrações entre s
 
 <br>
 
-<a href="mailto:ziago8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ziago8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:gmziago8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gmziago8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/iyshine">
   <img src="https://img.shields.io/badge/GitHub-iyshine-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -146,7 +146,7 @@ API REST desenvolvida com **Node.js, Express e MySQL**, incluindo autenticação
 
 Se quiser conversar sobre desenvolvimento, APIs, backend, automação ou algum projeto:
 
-**Email:** [ziago8@gmail.com](mailto:ziago8@gmail.com)
+**Email:** [gmziago8@gmail.com](mailto:gmziago8@gmail.com)
 
 ---
 
